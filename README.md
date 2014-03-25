@@ -1,4 +1,4 @@
-Marktown Twig Filter for LaBlog
+Markdown Twig Filter for LaBlog
 ===============================
 
 A simple plugin for LaBLog (Also works stand-alone with the twig template engine.).
